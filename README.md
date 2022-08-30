@@ -2,7 +2,7 @@
 - 👀 I’m interested in chess,computer
 - 🌱 I’m currently learning dev full stack job on Studi platform
 - 💞️ I’m looking to collaborate on ... good question
-- 📫 How to reach me ...
+- 📫 How to reach me, mail and LinkedIn
 
 <!---
 DdLgc/DdLgc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
