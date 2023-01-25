@@ -17,11 +17,11 @@ Discutons en ! | legouellecd@gmail.com
                                                                                                                              
 ### ➡️MON HISTOIRE
 
-Le 17 Mars 2020 en poste à Nicoll en tant que responsable qualité, j'ai été remercié par l'entreprise à cause du COVID, j'ai donc du prevoir un changement de voie et c'est tout naturellement que l'informatique et plus particulièrement le développement web 💻 (un vrai geek), à cette époque je bidouillais déjà sur raspberry pi et j'avais comme livre de chevet JAVA pour les nuls !!
+Le 17 Mars 2020 en poste à Nicoll en tant que responsable qualité, à cause du COVID j'ai été obligé de quitter l'emploi donc j'ai du prévoir un changement de voie et c'est tout naturellement que l'informatique et plus particulièrement le développement web 💻 (un vrai geek), à cette époque je bidouillais déjà sur raspberry pi et j'avais comme livre de chevet JAVA pour les nuls !!
 
 Depuis juin 2022 date de mon entrée à la formation en ligne de Studi, je m’amuse à découvrir des nouveaux langages comme JavaScript, Python, Php où d’autres outils comme Git, Bootstrap, Figma…
 
-👀 Je suis intéressé par l'informatique bien sur, mais aussi les échecs, le sport (JJB,boxe française, gymnastique artistique)
+👀 Je suis intéressé par l'informatique bien sûr, mais aussi les échecs, le sport (JJB,boxe française, gymnastique artistique)
 
 ### ➡️Pour aller voir mes projets finis et ceux en cours voici mon Github : https://github.com/DdLgc
 
