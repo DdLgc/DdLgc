@@ -21,5 +21,5 @@ Depuis juin 2022 date de mon entrée à la formation en ligne de Studi, je m’a
 
 👀 Je suis intéressé par l'informatique bien sur, mais aussi les échecs, le sport (JJB, boxe française, gymnastique artistique)
 
-➡️Pour aller voir mes projets finis et ceux en cours voici mon Github : https://github.com/DdLgc
+➡️Pour aller voir mes projets finis et ceux en cours voici mon Github : https://github.com/DdLgc  
 ➡️N'hésitez pas a prendre contact sur Linkedin https://www.linkedin.com/in/david-le-gouellec-551322243/
