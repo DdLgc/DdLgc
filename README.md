@@ -2,7 +2,7 @@ Bonjour à tous,
 👩‍💻Je m'appelle David j'ai 33 ans cette année et futur développeur web fullStack. (🤞🏼) .
 
 OBJECTIF
-✅ Développeur web fullStack en cours d’acquisition du Titre Professionnel que je validerai en Juillet 2023.
+✅ Développeur web fullStack en cours d’acquisition du Titre Professionnel que je validerai en Avril/Mars prochain.
 
 🔎 Je suis à la recherche d'un stage prés de/autour de ,
 > Nantes 
