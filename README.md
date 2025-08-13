@@ -6,9 +6,10 @@ OBJECTIF
 
 🔎 Je suis à la recherche d'un stage prés de/autour de ,
 > Nantes 
-> Angers 
-> Niort 
+> Montargis 
+> Orléans 
 > Cholet
+> Angers
 
 🗣️Vous recherchez un candidat curieux, passionné et qui a envie de mettre à profit ses compétences acquises ?
 
