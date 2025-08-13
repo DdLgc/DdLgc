@@ -5,11 +5,11 @@ OBJECTIF
 ✅ Développeur web fullStack en cours d’acquisition du Titre Professionnel que je validerai en Mars/Avril prochain.
 
 🔎 Je suis à la recherche d'un stage prés de/autour de ,
-> Nantes 
-> Montargis 
-> Orléans 
-> Cholet
-> Angers
+> Nantes  
+> Montargis  
+> Orléans  
+> Cholet  
+> Angers  
 
 🗣️Vous recherchez un candidat curieux, passionné et qui a envie de mettre à profit ses compétences acquises ?
 
