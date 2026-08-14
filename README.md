@@ -1,26 +1,182 @@
-Bonjour à tous,
-👩‍💻Je m'appelle David j'ai 34 ans cette année et futur développeur web fullStack. (🤞🏼) .
+# Bonjour, moi c'est David
 
-OBJECTIF
-✅ Développeur web fullStack en cours d’acquisition du Titre Professionnel que je validerai en Mars/Avril prochain.
+### Développeur Web Full Stack
 
-🔎 Je suis à la recherche d'un stage prés de/autour de ,
-> Nantes  
-> Montargis  
-> Orléans  
-> Cholet  
-> Angers  
+En reconversion professionnelle dans le développement web, je développe des applications frontend et backend avec une attention particulière portée à la *qualité du code*, à la *maintenabilité* et à la *structuration des projets*.
 
-🗣️Vous recherchez un candidat curieux, passionné et qui a envie de mettre à profit ses compétences acquises ?
+Après une première carrière dans le domaine de la qualité, j'ai choisi de me reconvertir vers un domaine qui m'attirait déjà depuis plusieurs années : l'informatique et le développement.
 
-Discutons en ! | legouellecd@gmail.com
+Aujourd'hui, je construis progressivement mon environnement professionnel autour de projets concrets, de bonnes pratiques Git et d'une documentation structurée.
 
-➡️MON HISTOIRE
-L'entreprise Nicoll où j'étais en poste en tant que responsable qualité, suite au COVID j'ai du prévoir un changement de voie et c'est tout naturellement que je me suis dirigé vers l'informatique et plus particulièrement le développement web 💻 (une vraie passion), à cette époque je bidouillais déjà sur raspberry pi et j'avais comme livre de chevet JAVA pour les nuls !!
+---
 
-Depuis juin 2023 date de mon entrée à la formation en ligne de Studi, je m’amuse à découvrir des nouveaux langages comme JavaScript, Python, Php où d’autres outils comme Git, Bootstrap, Figma…
+## À propos de moi
 
-👀 Je suis intéressé par l'informatique bien sur, mais aussi les échecs, le sport (JJB, boxe française, gymnastique artistique)
+- Formation *Développeur Web Full Stack*
+- Développement frontend et backend
+- Amélioration continue de mes pratiques et de mon code
+- Utilisation de Git avec branches, Conventional Commits et versioning
+- Documentation systématique de mes projets
+- Sensibilisation à l'accessibilité, aux performances, au SEO et à la sécurité
+- Déploiement et mise en production de projets web
 
-➡️Pour aller voir mes projets finis et ceux en cours voici mon Github : https://github.com/DdLgc  
-➡️N'hésitez pas a prendre contact sur Linkedin https://www.linkedin.com/in/david-le-gouellec-551322243/
+Mon expérience professionnelle précédente dans le contrôle qualité influence également ma manière de développer : j'aime comprendre, structurer, vérifier et améliorer ce que je construis.
+
+---
+
+## Stack technique
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+### Outils & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![PHPStorm](https://img.shields.io/badge/phpstorm-F24E1E?logo=phpstorm&color=purple)
+![Postman](https://img.shields.io/badge/Postman-F24E1E?logo=postman&logoColor=white)
+
+---
+
+## Projets
+
+### DdLgc Development Standards
+
+Mon référentiel personnel de développement regroupant mes standards pour :
+
+- Git et GitHub
+- Conventional Commits
+- VS Code
+- documentation
+- templates de projets
+- code review
+- accessibilité
+- performances
+- SEO
+- sécurité
+- déploiement
+
+[Voir DdLgc Development Standards](https://github.com/DdLgc/DdLgc-Development_Standards)
+
+---
+
+### Quai Antique
+
+Application web développée autour d'une architecture frontend / backend avec notamment :
+
+- HTML / SCSS / JavaScript
+- Bootstrap
+- Symfony
+- authentification
+- gestion utilisateur
+- réservation
+- API et base de données
+
+[Voir le projet](https://github.com/DdLgc/Quai-antique)
+
+---
+
+### Memory Game
+
+Jeu de mémoire développé en JavaScript avec :
+
+- génération dynamique des cartes
+- mélange aléatoire
+- timer
+- compteur de coups
+- détection de victoire
+- animations
+- responsive design
+
+[Voir le projet](https://github.com/DdLgc/memory-game)
+
+---
+
+### Jeux de dés
+
+Jeu JavaScript pour deux joueurs comprenant :
+
+- gestion des tours
+- scores temporaires et globaux
+- conditions de victoire
+- interactions dynamiques
+- animations
+
+[Voir le projet](https://github.com/DdLgc/Jeux-de-des)
+
+---
+
+## Ma façon de travailler
+
+Pour mes nouveaux projets, j'essaie de conserver un workflow commun :
+
+```text
+Analyse
+  ↓
+Conception
+  ↓
+Branche Git dédiée
+  ↓
+Développement
+  ↓
+Tests
+  ↓
+Contrôles qualité
+  ↓
+Merge dans main
+  ↓
+Documentation
+  ↓
+Déploiement
+  ↓
+Release
+```
+
+Ces pratiques sont progressivement centralisées dans mon référentiel *DdLgc Development Standards*.
+
+---
+
+## Objectif professionnel
+
+Je poursuis actuellement ma montée en compétences afin de consolider mon profil de *Développeur Web Full Stack*.
+
+Je recherche des opportunités me permettant de mettre en pratique mes compétences sur des projets réels, de travailler au sein d'une équipe de développement et de continuer à progresser techniquement.
+
+---
+
+## En dehors du développement
+
+Quand je ne suis pas devant VS Code, je m'intéresse notamment :
+
+- aux échecs ;
+- aux sports de combat ;
+- à la gymnastique artistique ;
+- à l'informatique et aux projets personnels.
+
+---
+
+## Me contacter
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ddlgc-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-le-gouellec-551322243/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legouellecd@gmail.com)
+
+---
+
+*Développer, structurer, documenter, améliorer.*
