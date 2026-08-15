@@ -92,19 +92,25 @@ Application web développée autour d'une architecture frontend / backend avec n
 
 ---
 
-### Memory Game
+### Domaine de la Fauchetière
 
-Jeu de mémoire développé en JavaScript avec :
+Site vitrine responsive pour un élevage canin, conçu avec une approche orientée *données et composants réutilisables*.
 
-- génération dynamique des cartes
-- mélange aléatoire
-- timer
-- compteur de coups
-- détection de victoire
-- animations
-- responsive design
+Le projet met notamment en œuvre :
 
-[Voir le projet](https://github.com/DdLgc/memory-game)
+- génération dynamique du contenu des races à partir de données JSON ;
+- page unique capable d'afficher différentes races selon les paramètres de l'URL ;
+- galerie dynamique avec lightbox ;
+- chargement de composants réutilisables comme la navigation et le footer ;
+- gestion des erreurs lors du chargement des données ;
+- optimisation du référencement avec métadonnées, URLs canoniques, `robots.txt` et `sitemap.xml` ;
+- responsive design avec Bootstrap et CSS personnalisé ;
+- déploiement continu via GitHub Pages.
+
+Ce projet m'a également permis de travailler sur des problématiques propres à la mise en production, notamment la gestion des chemins, la sensibilité à la casse et le diagnostic d'erreurs réseau en environnement déployé.
+
+[Voir le projet](https://github.com/DdLgc/La-Fauchetiere)  
+[Voir le site](https://ddlgc.github.io/La-Fauchetiere/)
 
 ---
 
